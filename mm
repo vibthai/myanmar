@@ -5437,7 +5437,7 @@
 "title":"မြင်းစီးကောင်းတဲ့စော်",
 "info":"",
 "time":""},
-{"link":"https://www.mediafire.com/file/u3bmrxttpnlhhei/သူလေးလဲကုန်းနေပြီ.mp4/file",
+{"link":"https://www.mediafire.com/file/y5ap79s94mapf7n/သူကုန်းနေပီ.mp4/file",
 "image":"https://i.imgur.com/Fb2SPcM_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "title":"မှူးမှူးကို တမုန်းလိုးချက် (နောက်ဆုံးတော့ သူကုန်းပီလေ)",
 "info":"",
