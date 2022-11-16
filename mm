@@ -5572,7 +5572,7 @@
 "title":"အဲလိုသာ ကုန်းပေးထားလို့ကတော့",
 "info":"",
 "time":""},
-{"link":"https://www.mediafire.com/file/uxg05uf5m1tz3az/ဂိမ်းဆော့နေတဲ့+ညီမလေး.mp4/file",
+{"link":"https://www.mediafire.com/file/b8oirrje06ywgpe/ညီမလေး.mp4/file",
 "image":"https://i.imgur.com/DZnKZdv_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "title":"မိဘတွေမရှိတုန်း ဂိမ်းဆော့နေတဲ့ညီမလေးကိုလိုး (မြမြ)",
 "info":"",
