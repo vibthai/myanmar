@@ -6701,9 +6701,4 @@
 "image":"https://i.imgur.com/dVpZwFj_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "title":"BNAက နီနီဝင်း သတင်းထောက်မလေး",
 "info":"",
-"time":""},
-{"link":"https://www.mediafire.com/file/w87vry944oq7nea/ဆရာနဲ့+ကျောင်းသူ.mp4/file",
-"image":"https://i.imgur.com/U8g9a65_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
-"title":"ဆရာနဲ့‌ကျောင်းသူလေး (မြမြ)",
-"info":"",
 "time":""}]
