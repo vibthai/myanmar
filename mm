@@ -6874,6 +6874,6 @@
 "time":""},
 {"link":"https://www.mediafire.com/file/pbkokpjd25o0v81/နာမည်ကြီးနေတဲ့ဟာ.mp4/file",
 "image":"https://i.imgur.io/4mSEYd0_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
-"title":"သိုင်းလောကမှာနာမည်ကြီးနေတဲ့video ကြိုက်တာတစ်ယောက်ရွေးထားပါ ထပ်လင်းပေးမယ်",
+"title":"သိုင်းလောကမှာနာမည်ကြီးနေတဲ့video",
 "info":"part 2 ထွက်အုံးမယ်တဲ့ဂေါင်းကြီးတို့ မျှော်...",
 "time":""}]
