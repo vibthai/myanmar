@@ -6906,4 +6906,9 @@
 "image":"https://i.imgur.io/2vUzQQs_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "title":"မြန်မာအိမ်တွင်းဖြစ်",
 "info":"",
+"time":""},
+{"link":"https://www.mediafire.com/file/wmggfgz3wjnbxdl/ခိုးစားချောင်းရိုက်.mp4/file",
+"image":"https://i.imgur.io/eQudZeD_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"title":"ခိုးစားချောင်းရိုက်",
+"info":"",
 "time":""}]
