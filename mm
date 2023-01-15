@@ -7133,7 +7133,7 @@
 "info":"",
 "time":""},
 {"link":"https://www.mediafire.com/file/5jlx4oozcp8nei7/အဖုတ်အပြောင်လေးကိုလိုးတာ.mp4/file",
-"image":"https://i.imgur.io/W2qwI1r_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"image":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20230115_210630.jpg",
 "title":"အဖုတ်အပြောင်လေးကိုလိုးတာ",
 "info":"",
 "time":""},
