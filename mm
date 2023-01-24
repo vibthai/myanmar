@@ -7361,4 +7361,9 @@
 "image":"https://i.imgur.io/m6ikdEO_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "title":"ရည်းစားဟောင်းကို အိမ်ခေါ်လိုး",
 "info":"",
+"time":""},
+{"link":"https://www.mediafire.com/file/05vhdvh0nx8ia4s/အိုးလည်းကြီး+ဒေါသလည်းကြီးတဲ့+သင်္ချာဆရာမ+မြမြ.mp4/file",
+"image":"https://i.imgur.io/lbEcd8E_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"title":"အိုးလည်းကြီး ဒေါသလည်းကြီးတဲ့ သင်္ချာဆရာမမြမြ",
+"info":"",
 "time":""}]
