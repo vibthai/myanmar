@@ -7684,7 +7684,7 @@
 "time":""},
 {"link":"https://www.mediafire.com/file/jjqivv8wotsytbr/စော်က+လီးမြင်တာနဲ့တောင်လန့်နေပီ+ep1.mp4/file",
 "image":"https://i.imgur.io/T6E6n2y_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
-"title":"စော်က လီးမြင်တာနဲ့တောင်ကြောက်နေပီ",
+"title":"စော်က လီးမြင်တာနဲ့တောင်ကြောက်နေပီ ep1",
 "info":"",
 "time":""},
 {"link":"https://www.mediafire.com/file/e0wb85vnbmnjil7/ချစ်စောက်ပတ်ကို+ကွဲအောင်လိုးတဲ့.mp4/file",
