@@ -8241,5 +8241,5 @@
 "image":"https://i.imgur.io/dTWhcOg_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "title":"ကားတင်ပြေးပီးခိုးလာတဲ့စော်လေးကို လိုးထားတာ",
 "info":"",
-"watch":"y7dwH8hvxSVp5SZtdEZ61R2JWNczOa9OgN7Z3Ao6gKbp88DHyxDTIFPFFlSwCXTA1puCsYNFRxrT8YnNYniNHBMH/bx7Q8247BWuBKe/R8rjr/YaBweWnyDvS1IA4N70pliD6VGocvMH0SeFjnQLyA==",
+"watch":"",
 "time":""}]
