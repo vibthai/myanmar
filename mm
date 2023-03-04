@@ -8290,4 +8290,10 @@
 "title":"ဆီလူးနတ်သမီးရဲ့ မာယာထောင်ချောက် (မြမြ ဇာတ်လမ်းရှည်)",
 "info":"",
 "time":"",
+"watch":""},
+{"link":"https://www.mediafire.com/file/3pgmgqazk3o0351/စစ်ကိုင်းအိုး.mp4/file",
+"image":"https://i.imgur.io/2KkFJfJ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"title":"စစ်ကိုင်းသူရဲ့ အိုးကိုဖြိုနေတာ တော်တော်တင်းတဲ့အိုး",
+"info":"",
+"time":"",
 "watch":""}]
