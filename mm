@@ -10199,4 +10199,10 @@
 "title":"တော်ပြီမရတော့ဘူး ပြောတာကိုအတင်းလိုးတဲ့ကောင်",
 "info":"",
 "time":"",
+"watch":""},
+{"link":"https://www.mediafire.com/file/hmms3qejb4bfp9b/ရှက်တတ်တဲ့+သူနာပြုမလေး.mp4/file",
+"image":"https://i.imgur.io/oNQItw8_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"title":"ရှက်တတ်တဲ့ သူနာပြုမလေး (အမှေးလန်နေတဲ့အမှန်ကန်လေးပါ)",
+"info":"",
+"time":"",
 "watch":""}]
