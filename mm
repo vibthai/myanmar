@@ -10554,7 +10554,7 @@
 "info":"",
 "time":"",
 "watch":""},
-{"link":"https://www.mediafire.com/file/xjbj2s04yb1cpqr/ချောင်းရိုက်+အသစ်.mp4/file",
+{"link":"https://www.mediafire.com/file/e5ohztkq7jsvw38/စက်ရုံကအပြန်+ဘဲနဲ့ချိန်းတွေ့.mp4/file",
 "image":"https://i.imgur.io/mRJfnju_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "title":"စက်ရုံကအပြန် ဘဲနဲ့ချိန်းတွေ့",
 "info":"",
