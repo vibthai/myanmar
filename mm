@@ -15158,7 +15158,7 @@
 "watch":""},
 {"link":"https://www.mediafire.com/file/axuat1egeranugy/စိတ်မပါဘဲ+အပေါ်တက်ဆောင့်နေတာ.mp4/file",
 "image":"https://github.com/minimyanmar/P7/blob/main/IMG_20230808_175523.jpg?raw=true",
-"title":"စိတ်မပါဘဲ အပေါ်တက်ဆောင့်နေတာ",
+"title":"စော်က စိတ်မပါဘဲအပေါ်ကတက်ဆောင့်နေရတယ်",
 "info":"",
 "time":"",
 "watch":""},
