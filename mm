@@ -16175,10 +16175,4 @@
 "title":"ကျောင်းဆရာမလေးထန်နေတာ",
 "info":"",
 "time":"",
-"watch":""},
-{"link":"https://www.mediafire.com/file/2rald23uf889b05/ကျောင်းဆရာမလေကိုတောထဲမှာဆွဲ+အသစ်စက်စက်လေး.mp4/file",
-"image":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230905_160125.jpg?raw=true",
-"title":"ကျောင်းဆရာမလေးကို တောထဲမှာဆွဲ အသစ်စက်စက်လေး",
-"info":"",
-"time":"",
 "watch":""}]
