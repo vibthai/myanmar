@@ -16169,10 +16169,4 @@
 "title":"အသေလိုးတာ တအားအားနဲ့အော်တဲ့စော်လေး",
 "info":"",
 "time":"",
-"watch":""},
-{"link":"https://www.mediafire.com/file/vyh3bn7jcsgpzq3/ကျောင်းဆရာမလေးထန်နေတာ.mp4/file",
-"image":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230905_160143.jpg?raw=true",
-"title":"ကျောင်းဆရာမလေးထန်နေတာ",
-"info":"",
-"time":"",
 "watch":""}]
