@@ -16925,10 +16925,4 @@
 "title":"ဘဲကြီးကခွပြီးအသေလိုးတာ",
 "info":"",
 "time":"",
-"watch":""},
-{"link":"https://www.mediafire.com/file/10jxdicv5j8ojyt/မြန်မာကိုယ်တိုင်ရိုက်+စော်လေးကအကိတ်လေး.mp4/file",
-"image":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230927_163658.jpg?raw=true",
-"title":"မြန်မာကိုယ်တိုင်ရိုက် စော်လေးကအကိတ်လေး",
-"info":"",
-"time":"",
 "watch":""}]
