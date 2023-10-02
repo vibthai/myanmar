@@ -17012,7 +17012,7 @@
 "watch":""},
 {"link":"https://www.mediafire.com/file/2prn6ef6ms7zmd3/မြန်မာမမ+အကိတ်ကြီးဟိုတယ်မှာဆွဲခံရပီ.mp4/file",
 "image":"https://github.com/minimyanmar/photo1/blob/main/IMG_20231002_220424.jpg?raw=true",
-"title":"မြန်မာမမ အကိတ်ကြီးဟိုတယ်မှာဆွဲခံရပီ",
+"title":"မြန်မာမမအကိတ် ဟိုတယ်မှာဆွဲခံရပီ",
 "info":"",
 "time":"",
 "watch":""},
