@@ -19583,4 +19583,10 @@
 "title":"ဂေါ်လီအတုနဲ့ အလိုးခံလိုက်ရတဲ့စော်",
 "info":"",
 "time":"",
+"watch":""},
+{"link":"https://www.mediafire.com/file/65pmm0hnlpokd7h/ကိတ်ချက်ကတော့+တုန်နေတာပဲ+video+ရိုက်လို့ရှက်နေတာ.mp4/file",
+"image":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240109_174651.jpg",
+"title":"ကိတ်ချက်ကတော့လုံးနေတာပဲ video ရိုက်လို့ရှက်နေတာ",
+"info":"",
+"time":"",
 "watch":""}]
