@@ -21198,4 +21198,10 @@
 "title":"သူငယ်ချင်း အတွဲခိုးရိုက်",
 "info":"",
 "time":"",
+"watch":""},
+{"link":"https://www.mediafire.com/file/gy5u88xrb6tnd78/စော်လေးက+အန်ကြိတ်ပြီးတော့ကို+ခံသွားတာ+အလန်းလေးကွာ.mp4/file",
+"image":"https://raw.githubusercontent.com/minimyanmar/p13/main/IMG_20240427_000952.jpg",
+"title":"စော်လေးက အန်ကြိတ်ပြီးတော့ကို ခံသွားတာ အလန်းလေးကွာ",
+"info":"",
+"time":"",
 "watch":""}]
