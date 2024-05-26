@@ -21474,4 +21474,10 @@
 "title":"မြန်မာမလေးကို ဟော်တည်မှာရှယ်လိုး",
 "info":"",
 "time":"",
+"watch":""},
+{"link":"https://www.mediafire.com/file/967vuvzkbim0pac/0526.mp4/file",
+"image":"https://i.imghippo.com/files/xNIrT1716714523.jpg",
+"title":"အလန်းလေးရဲ့ Solo",
+"info":"",
+"time":"",
 "watch":""}]
