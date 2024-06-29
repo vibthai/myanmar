@@ -21756,4 +21756,10 @@
 "title":"ဖြူစင်သော အိမ်တွင်းအချစ် (528 ချစ်မေတ္တာလေး)",
 "info":"",
 "time":"",
+"watch":""},
+{"link":"https://www.mediafire.com/file/w0iks92duca1o64/ကျောင်းစိမ်းလေး.mp4/file",
+"image":"https://bluetvapp.com/image/myanmar/IMG_20240630_013908.jpg",
+"title":"ကျောင်းစိမ်းလေးကို ရှယ်ဖြုတ်",
+"info":"",
+"time":"",
 "watch":""}]
